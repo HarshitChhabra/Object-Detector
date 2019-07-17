@@ -31,3 +31,5 @@ To test, run **test.py** with following arguements:
     "-d" ("--detector") = path to trained detector to load.
     
     "-i" ("--image") = path to an image for object detection.
+
+A sample face_detector.svm is included in the project which is trained on the images in facesTest folder.
